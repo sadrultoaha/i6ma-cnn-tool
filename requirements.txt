@@ -1,0 +1,7 @@
+tensorflow == 2.3.0
+Flask
+numpy
+pandas
+requests
+requests-oauthlib
+Werkzeug
